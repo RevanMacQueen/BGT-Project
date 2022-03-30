@@ -1,0 +1,11 @@
+Play,Iteration,Identifier,0,1,2,3,4,5,6
+0,Player 1 action,Joey,f,f,f,,,,
+0,Player 2 Action,Ben,c,c,f,,,,
+1,Player 1 action,Joey,c,c,,,,,
+1,Player 2 Action,Revan,c,f,,,,,
+3,Player 1 action,Ben,f,c,f,c,,,
+3,Player 2 Action,Revan,c,f,c,f,,,
+4,Player 1 action,Owen,f,c,f,c,f,,
+4,Player 2 Action,Rohini,c,f,c,f,c,,
+5,Player 1 action,Owen,f,f,,,,,
+5,Player 2 Action,Rohini,f,f,,,,,
